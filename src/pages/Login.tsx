@@ -1,7 +1,6 @@
 import { GiReceiveMoney } from 'react-icons/gi';
 import { AiOutlineUser } from 'react-icons/ai';
 import { AiOutlineLock } from 'react-icons/ai';
-import Toast from '../components/Toast';
 
 const Login = () => (
   <div className="h-full w-full flex flex-col items-center justify-center bg-gradient-to-br from-green-600 to-green-900 text-white">
